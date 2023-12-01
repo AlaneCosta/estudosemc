@@ -18,7 +18,7 @@ int main() {
 			printf("Segunda-feira.\n");
 			break;			
 		case 3:
-			printf("TerÁa-feira.\n");
+			printf("Ter√ßa-feira.\n");
 			break;	
 		case 4:
 			printf("Quarta-feira.\n");
@@ -30,10 +30,10 @@ int main() {
 			printf("Sexta-feira.\n");
 			break;			
 		case 7:
-			printf("S·bado.\n");
+			printf("S√°bado.\n");
 			break;
 		default:
-			printf("Valor Inv·lido.\n");
+			printf("Valor Inv√°lido.\n");
 			break;								
 	}
 	
