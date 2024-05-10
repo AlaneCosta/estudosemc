@@ -15,6 +15,6 @@ int main() {
     ptr_xi = &xi;
     imprimir();
 
-    system("Pause");
-    return(0);
+    getchar();
+    return 0;
 }
